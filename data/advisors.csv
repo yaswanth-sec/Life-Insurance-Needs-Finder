@@ -1,0 +1,16 @@
+advisor_id,advisor_name,languages,specialisations,consultation_modes,years_experience,rating,review_count,working_days,shift_start,shift_end,lunch_break,email
+ADV-4KKBRK,Farah Siddiqui,English;Hindi;Urdu,term_protection;women_and_homemakers,video;chat,6,4.3,136,Mon-Sat,11:00,19:00,13:00-14:00,farah.siddiqui@saffronlife.example
+ADV-6FJFZZ,Imran Shaikh,Hindi;Marathi;English;Urdu,first_time_buyers;gig_and_self_employed,chat;phone,4,4.6,120,Mon-Sat,13:00,21:00,16:00-16:30,imran.shaikh@saffronlife.example
+ADV-7JIHQA,Venkata Subba Rao,Telugu;English;Hindi,senior_citizens;retirement_planning,phone;video,19,4.4,301,Mon-Fri,10:00,17:00,13:00-14:00,venkata.rao@saffronlife.example
+ADV-8XXITU,Suresh Nair,Malayalam;English;Tamil,nri_clients;ulip_and_investments,video;phone,15,4.7,180,Mon-Sat,09:00,17:00,13:00-14:00,suresh.nair@saffronlife.example
+ADV-8ZVJD1,Meera Iyer,English;Tamil;Hindi,term_protection;child_planning,video;chat;phone,11,4.4,217,Mon-Sat,10:00,18:00,13:00-14:00,meera.iyer@saffronlife.example
+ADV-AYPB1A,Rohan Kulkarni,English;Marathi;Hindi,retirement_planning;ulip_and_investments,video;phone,8,4.6,240,Mon-Fri,09:30,17:30,13:00-14:00,rohan.kulkarni@saffronlife.example
+ADV-DUEZJI,Arvind Mehta,Hindi;English,high_net_worth;ulip_and_investments;whole_life_and_legacy,video,22,4.6,228,Mon-Fri,10:00,16:00,13:00-14:00,arvind.mehta@saffronlife.example
+ADV-EI4R1M,Sneha Pattnaik,Odia;Hindi;English,first_time_buyers;term_protection,chat;video,3,4.2,116,Mon-Sat,12:00,20:00,16:00-16:30,sneha.pattnaik@saffronlife.example
+ADV-F40QVT,Nikhil Bhatia,Hindi;English;Punjabi,home_loan_protection;term_protection;retirement_planning,video;chat;phone,9,4.7,162,Mon-Sat,10:00,18:00,13:00-14:00,nikhil.bhatia@saffronlife.example
+ADV-I5TXS7,Aditi Banerjee,Bengali;English;Hindi,child_planning;endowment_and_savings,video;chat;phone,9,4.5,190,Tue-Sun,10:00,18:00,13:00-14:00,aditi.banerjee@saffronlife.example
+ADV-IB592D,Harpreet Gill,Punjabi;Hindi;English,nri_clients;term_protection,video;chat,12,4.2,233,Mon-Sat,12:00,20:00,16:00-16:30,harpreet.gill@saffronlife.example
+ADV-M9UEGM,Manjunath Gowda,Kannada;English;Hindi;Telugu,term_protection;home_loan_protection,chat;phone,5,4.5,98,Mon-Fri,10:00,18:00,13:00-14:00,manjunath.gowda@saffronlife.example
+ADV-TWTKCW,Kavita Joshi,Gujarati;Hindi;English,business_owners;term_protection,video;chat;phone,7,4.0,137,Mon-Sat,10:30,18:30,13:00-14:00,kavita.joshi@saffronlife.example
+ADV-UGWZPY,Deepa Raghunathan,Tamil;English,claims_and_policy_servicing;senior_citizens,phone;chat,14,4.3,211,Mon-Fri,09:00,17:00,13:00-14:00,deepa.raghunathan@saffronlife.example
+ADV-ZL0P97,Lakshmi Prasanna,Telugu;English,women_and_homemakers;child_planning,video;chat;phone,10,4.5,105,Tue-Sun,09:30,17:30,13:00-14:00,lakshmi.prasanna@saffronlife.example
